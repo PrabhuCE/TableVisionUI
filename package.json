@@ -36,7 +36,7 @@
     "next-images": "^1.1.1",
     "next-optimized-images": "^2.4.0",
     "next-redux-wrapper": "^3.0.0-alpha.3",
-    "nodemailer": "^6.1.0",
+    "nodemailer": "^6.4.16",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "react": "^16.8.6",
     "react-accessible-accordion": "^3.0.0",
